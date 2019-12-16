@@ -12,12 +12,12 @@
 	The only supported platform is x64.
 
  Third-party libraries used:
+ 
 	libcurl -- https://curl.haxx.se/libcurl/
 	
 	SDL2 -- https://www.libsdl.org/
 	
 	SDL2Image -- https://www.libsdl.org/projects/SDL_image/
 	
-	SDL2TTF -- https://www.libsdl.org/projects/SDL_ttf/
-	
+	SDL2TTF -- https://www.libsdl.org/projects/SDL_ttf/	
 	nlohmannJSON -- https://github.com/nlohmann/json
